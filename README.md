@@ -13,6 +13,7 @@ git clone https://github.com/esrabayramova/Airport_Management_System
 ## Usage
 
 Firstly, one terminal is opened for server side. In this terminal, app.py file should be run, so that admins and users can use the system.
+(!!!P.S. If the database is not created, in app.py file db.create_all() function must be run. In my case, I have created the database, so I commented it out.)
 
 
 ```
